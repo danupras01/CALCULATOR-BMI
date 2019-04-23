@@ -113,6 +113,7 @@
 				    		}
 				    		echo "Your BMI value is  " . $bmi . "<br>  and you are : "; 
 				    		echo "$output";
+				    		echo"<img src=bmi.jpg width=300 height=200>";
 				    		
 						}
 						?>
